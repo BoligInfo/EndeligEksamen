@@ -99,4 +99,3 @@ public class Apartment {
         this.floors = floors;
     }
 }
-
