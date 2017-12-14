@@ -46,9 +46,6 @@ import org.springframework.security.web.access.AccessDeniedHandler;
  *     <li>Add the logs to the database, with a page for admins to view logs</li>
  *     <li>Add log file if web application running on dedicated server</li>
  * </ul>
- * @author      Patrick Klæbel
- * @version     %I%, %G%
- * @since       1.0
  */
 public class CustomAccessDeniedHandler implements AccessDeniedHandler {
 
